@@ -1,2 +1,2 @@
 # react-bootcamp
-### For Assignments check branches
+### This Repo contains all the assignments from the React Bootcamp
